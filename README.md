@@ -12,7 +12,7 @@ This repository contains two Python programs that integrate:
 
 ---
 
-## 📦 Installation Requirement
+## Installation Requirement
 
 This project requires Python 3.x.
 
@@ -24,7 +24,7 @@ pip install requests
 
 ---
 
-# 🧾 Exercise 1 — Point-of-Sale Checkout System  
+# Exercise 1 — Point-of-Sale Checkout System  
 **File:** `pos_checkout.py`
 
 ## Description
@@ -42,7 +42,7 @@ The program safely handles invalid input and never crashes.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 From the terminal inside your project folder:
 
@@ -52,7 +52,7 @@ python pos_checkout.py
 
 ---
 
-## 🧪 Example Run
+## Example Run
 
 ```
 Student key: 515
@@ -77,7 +77,7 @@ Total: $578.40
 
 ---
 
-# 📊 Exercise 2 — Inventory Reorder Analyzer with API Spot Check  
+# Exercise 2 — Inventory Reorder Analyzer with API Spot Check  
 **File:** `inventory_spotcheck.py`
 
 ## Description
@@ -95,7 +95,7 @@ It:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 First ensure `requests` is installed:
 
@@ -111,7 +111,7 @@ python inventory_spotcheck.py
 
 ---
 
-## 🧪 Example Run
+## Example Run
 
 ```
 Student key: 515
