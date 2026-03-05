@@ -100,7 +100,7 @@ It:
 First ensure `requests` is installed:
 
 ```bash
-pip install requests
+pip3 install requests
 ```
 
 Then run:
